@@ -88,5 +88,3 @@ Select an option:
 * **File Handling & Parsing:** Complex string splitting, parsing, and data cleaning from flat text files.
 * **Defensive Programming:** Robust error-handling matrices to intercept invalid terminal inputs and unexpected edge cases.
 * **Object/Procedural Logic Flow:** State management mapping out clean user-to-admin permission tiers.
-
-````banking_system.py` so it matches the commands in the README file above!
