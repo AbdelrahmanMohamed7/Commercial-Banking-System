@@ -1,5 +1,3 @@
-#Name: ABDELRAHMAN MOHAMED ABDELMAGUD WAGIH
-#TP NO: TP066717
 #Super User Name: YoussefSA
 #Password :01239876
 
