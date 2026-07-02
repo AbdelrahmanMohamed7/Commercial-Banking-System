@@ -1,0 +1,7 @@
+YoussefSA;01239876;-;-;Youssef:sami;60008035;KW;youssef@.com;SU;26
+AU00005;AU00005;-;-;youssef;sami;66653797;KL;youssef@.com;AU;23
+CCU00005;CCU00002;9915.0;85;Ahmed;Mahmoud;60426062;KW;Mh@.com;CCU;29
+CCU00005;Karim99;19329.0;171;Abdelrahman;Karim;55555555;KL;Dazai@.com;CCU;23
+AU00001;AU00001;-;-;Dewi;Wassem;89898989.0;Kl;Dewi@apu.com;AU;43.0
+SAV00001;SAV00001;100.0;-;Ahmed;con;85234679.0;SAD;Ahmed_con@gmail.com;SAV;25.0
+CCU00002;CCU00002;500.0;-;Mohamed;Mustafa;5456789.0;UAE;Mohamed334@gmail.com;CCU;66.0
